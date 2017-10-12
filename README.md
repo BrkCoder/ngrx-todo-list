@@ -1,8 +1,11 @@
 
-# NgrxTodoList
+# Ngrx-todo-list
+
+This project logic is based on [ngrx4/store library](https://github.com/ngrx/platform)
+
+This project was design base on [angular material design library](https://material.angular.io/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
-This project was design base on [angular material design library](https://material.angular.io/)
 
 ## Development server
 
